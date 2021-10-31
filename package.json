@@ -1,0 +1,35 @@
+{
+  "name": "t9o-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "t9o-pages",
+    "zce"
+  ],
+  "repository": "ppambler/t9o-pages",
+  "license": "MIT",
+  "author": "ppambler <allinlbj@gmail.com> (https://github.io/ppambler)",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "lint": "standard --fix",
+    "prepare": "npm run lint"
+  },
+  "renovate": {
+    "extends": [
+      "zce"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "16.0.3"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
