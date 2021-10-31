@@ -64,7 +64,7 @@ const result = t9OPages('w')
 
 ## License
 
-[MIT](LICENSE) &copy; [ppambler](https://github.io/ppambler)
+[MIT](LICENSE) &copy; [ppambler](https://github.com/ppambler)
 
 
 
