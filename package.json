@@ -12,7 +12,8 @@
   "main": "lib/index.js",
   "bin": "bin/t9o-pages.js",
   "files": [
-    "lib"
+    "lib",
+    "bin"
   ],
   "scripts": {
     "lint": "standard --fix",
