@@ -10,6 +10,7 @@
   "license": "MIT",
   "author": "ppambler <allinlbj@gmail.com> (https://github.com/ppambler)",
   "main": "lib/index.js",
+  "bin": "bin/t9o-pages.js",
   "files": [
     "lib"
   ],
